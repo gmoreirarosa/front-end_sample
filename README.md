@@ -1,6 +1,8 @@
 # Projeto prototipo de front-end
 
-## Para rodar, é necessário instalar o json-server
+## Para rodar, o mock da api:
+
+Caso não tenha o json-server instalado, utilize o comando abaixo:
 
 `npm install -g json-server`
 
@@ -10,7 +12,9 @@ Na raiz do projeto execute o comando abaixo para iniciar o mock de uma api back-
 
 Pode ser necessário ajustar o caminho da api no arquivo ./src/services/api.js 
 
-## Para rodar o front-end execute:
+## Para rodar o front-end 
+
+Execute:
 
 `npm install`
 
